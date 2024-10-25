@@ -4,11 +4,6 @@ import './index.css'
 export function App () {
     return(
         <>
-            <TwitterFollowCard username='lapidelapu' name='Carepinga Gonzales'/>
-            <TwitterFollowCard username={'lapidelapu'} name={'Carepinga Gonzales' }/>
-            <TwitterFollowCard username={'lapidelapu'} name={'Carepinga Gonzales' }/>
-            <TwitterFollowCard username={'lapidelapu'} name={'Carepinga Gonzales' }/>
-            <TwitterFollowCard username={'lapidelapu'} name={'Carepinga Gonzales' }/>
         </>
     )
 }

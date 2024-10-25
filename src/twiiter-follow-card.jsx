@@ -1,6 +1,6 @@
 export function TwitterFollowCard ({ username, name, isFollowing }) {
     return(
-    <main className="main">
+    <main>
         <article className="tw-container">
             <header className="tw-container-user">
                 <img 
